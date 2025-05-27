@@ -7,4 +7,5 @@
 <img alt="method" src="image/EMOE.png">
 </div>
 
-Code coming soon.
+## News
+* [2025-05-02] Repo created. Code will be released soon.
