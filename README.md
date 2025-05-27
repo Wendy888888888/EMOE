@@ -1,3 +1,7 @@
-# EMOE
+# EMOE: Modality-Specific Enhanced Dynamic Emotion Experts
 
-Coming soon.
+<div align="center">
+<img alt="method" src="image/EMOE.png">
+</div>
+
+Code coming soon.
