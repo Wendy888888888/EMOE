@@ -17,7 +17,7 @@ Multimodal Emotion Recognition (MER) aims to predict human emotions by leveragin
 </div>
 
 ## Citation
-```
+```bibtex
 @inproceedings{fang2025emoe,
     title     = {EMOE: Modality-Specific Enhanced Dynamic Emotion Experts},
     author    = {Fang, Yiyang and Huang, Wenke and Wan, Guancheng and Su, Kehua and Ye, Mang},
