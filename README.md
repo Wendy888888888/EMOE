@@ -1,7 +1,7 @@
 # EMOE: Modality-Specific Enhanced Dynamic Emotion Experts
-> [EMOE: Modality-Specific Enhanced Dynamic Emotion Experts](https://openaccess.thecvf.com/content/CVPR2025/html/Fang_EMOE_Modality-Specific_Enhanced_Dynamic_Emotion_Experts_CVPR_2025_paper.html),            
+> EMOE: Modality-Specific Enhanced Dynamic Emotion Experts,            
 > Yiyang Fang, Wenke Huang, Guancheng Wan, Kehua Su, Mang Ye
-> *CVPR, 2025*
+> *CVPR, 2025*, [Link](https://openaccess.thecvf.com/content/CVPR2025/html/Fang_EMOE_Modality-Specific_Enhanced_Dynamic_Emotion_Experts_CVPR_2025_paper.html)
 
 <div align="center">
 <img alt="method" src="image/EMOE.png">
