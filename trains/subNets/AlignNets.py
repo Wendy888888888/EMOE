@@ -1,3 +1,4 @@
+#多模态序列对齐，将各模态特征长度对齐到相同长度
 import torch
 import torch.nn as nn
 
